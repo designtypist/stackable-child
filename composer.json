@@ -1,0 +1,16 @@
+{
+  "name": "designtypist/stackable-child",
+  "description": "Stackable child theme",
+  "keywords": ["wordpress", "theme"],
+  "homepage": "https://github.com/designtypist/stackable-child",
+  "authors": [
+    {
+      "name": "DesignTypist",
+      "homepage": "https://github.com/designtypist"
+    }
+  ],
+  "type": "wordpress-theme",
+  "require": {
+    "php": ">=5.6"
+  }
+}
