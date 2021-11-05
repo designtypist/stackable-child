@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: Full Width Page Template
+ * Template Name: Full Width No Header Page Template
  *
  * @package Stackable
  */
