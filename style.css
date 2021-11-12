@@ -14,7 +14,7 @@ Text Domain:  stackablechild
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
-.site-info {
+footer.site-footer .site-info {
   text-align: center;
   margin: 2em 0;
 }
